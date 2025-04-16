@@ -1,4 +1,4 @@
-# Linear regression Model for Machine Learning Prediction of HIV1 Drug Resistance against Integrase Strand Transfer Inhibitors  
+# Linear Regression Model for INSTI resistance
 
 This repository contains code used in the publication:  
 Machine Learning Prediction of HIV1 Drug Resistance against Integrase Strand Transfer Inhibitors, Ching Yu Chui and A.W. Edith Chan, Journal, 2025.
