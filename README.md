@@ -8,3 +8,4 @@ A logistic regression model was used in the above publication to look at INSTI r
 
 ## Files
 model.ipynb: Main notebook used for training and evaluation
+integrase_dataset: resistance fold change data and mutations tested
