@@ -7,5 +7,5 @@ Machine Learning Prediction of HIV1 Drug Resistance against Integrase Strand Tra
 A logistic regression model was used in the above publication to look at INSTI resistance patterns in HIV integrase.
 
 ## Files
-model.ipynb: Main notebook used for training and evaluation
+model.ipynb: Main notebook used for training and evaluation  
 integrase_dataset: resistance fold change data and mutations tested
